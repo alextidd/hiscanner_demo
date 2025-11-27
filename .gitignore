@@ -2,7 +2,10 @@ __pycache__/
 .vscode/
 .DS_Store
 fastq_split/
+fasta_split/
 scripts/
 bams/
 mappability/
 scan2_out/
+hiscanner_out/
+log/
